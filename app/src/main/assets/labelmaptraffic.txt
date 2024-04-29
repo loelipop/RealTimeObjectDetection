@@ -1,0 +1,13 @@
+bike
+bus
+car
+motor
+person
+rider
+tl_green
+tl_none
+tl_red
+tl_yellow
+traffic_sign
+train
+truck
