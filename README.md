@@ -16,11 +16,10 @@ float[][] scores=new float[1][10];
 // stores scores of 10 object
 float[][] classes=new float[1][10];
 // stores class of object
+
 變成
+
 float[][][]boxes =new float[1][17][3549];
-// 10: top 10 object detected
-// 4: there coordinate in image
 float[][] scores=new float[1][17];
-// stores scores of 10 object
 float[][] classes=new float[1][17];
 error變成java.lang.illegalargumentexception: invalid output tensor index: 1
